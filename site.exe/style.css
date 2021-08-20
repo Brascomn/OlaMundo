@@ -11,5 +11,10 @@ main{
     width: 550px;
     margin: auto;
     padding: 10px;
+    border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(44, 44, 44) ;
+}
+
+footer{
+    text-align: center;
 }
